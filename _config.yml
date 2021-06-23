@@ -2,17 +2,17 @@ title: Github Blog
 description: > # this means to ignore newlines until "baseurl:"
   Blog with theme Future Imperfect<br>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://future-imperfect.kaptn.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://irack000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author:
-  name: 'Author Name'
-  last_name: 'Last Name'
+  name: 'IRACK000'
+  last_name: 'IRACK'
   cv: '//github.io'
   avatar: '/images/avatar.jpeg'
-  github_username:  kaptn3  
-  email: vika@kaptn.ru
-  vk_id: id201664979
+  github_username:  irack000  
+  email: irack000@github.com
+  vk_id: id202102545
   telegram_name: name
   logo: '/images/logo.svg'
 
