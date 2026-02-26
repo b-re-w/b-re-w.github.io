@@ -5,5 +5,8 @@
 - name: 모각코
   href: '/mgc/'
 
+- name: paper
+  href: '/paper/'
+
 - name: instruction
   href: '/instruction/'
